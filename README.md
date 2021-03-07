@@ -1,3 +1,2 @@
 # rose-info
-# this is made for information on roses
-# that's it
+This is made for info on roses for everyone, some fun facts included!
